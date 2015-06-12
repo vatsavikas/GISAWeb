@@ -8,10 +8,9 @@
 <!-- Main page content follows the header -->
 <div id="page-content">
 
-<p class="question">We will be issuing confirmation about your temporary accomodation for prospective students-Fall 2014 from July 20th onwards. Details will be posted on the
-	GISA website as well as on the GISA FB page </P>
+<p class="question">IMPORTANT: Students coming in for Fall 2015, we will be putting up a form to take your Temp stay requests soon. Watch this space. </P>
 
-<p> Travel log entries are closed for Fall 2014. </p>
+<p><a href="TempAccohosts.php">Click here if you would like to be a Host for Fall 2015</a> </p>
 <!-- Then comes the spider.. I mean the "sidebar" -->
 
 
