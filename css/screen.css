@@ -1,0 +1,16 @@
+/* Styles for GISA website */
+body:before, body:after {
+    content: "";
+    position: fixed;
+    background: #000;
+    left: 0;
+    right: 0;
+    height: 10px;
+}
+body:before {
+    top: 0;
+}
+body:after {
+    bottom: 0;
+}
+body {background: #b1cce4; border-left: 10px solid #000;}
