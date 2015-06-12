@@ -40,7 +40,7 @@
 		<tr>
 			<th>Vice President		
 			<td>Nori Sri soury
-<td><a href="mailto:tejasvis@buffalo.edu">tejasvis@buffalo.edu
+<td><a href="mailto:srisoury@buffalo.edu">srisoury@buffalo.edu
 					</tr>
 		<tr class="alt">
 			<th>Treasurer

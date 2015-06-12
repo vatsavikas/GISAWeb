@@ -90,7 +90,7 @@
 				
 				<li><a id="a_gallery" href="gallery.php">Gallery</a></li>
 				<li><a id="a_faq" href="faq.php">FAQ</a></li>
-				<li><a id="a_committee" href="committee.php">Committee 2014</a></li>
+				<li><a id="a_committee" href="committee.php">Committee 2015</a></li>
 			</ul>
 		</div>
     </header>

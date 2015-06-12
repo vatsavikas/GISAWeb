@@ -4,7 +4,7 @@
 		<p>Connect with us at: &nbsp; <a href="http://www.facebook.com/home.php?sk=group_116428225037870" target="_blank"><span class="facebook">Facebook</span></a></p>
 	</div>
 	<div id="webmaster-box">
-		<p>Webmaster: <a href="mailto:sbasavar@buffalo.edu">Sharath Babu</a></p>
+		<p>Webmaster: <a href="mailto:bhargavs@buffalo.edu">Bhargav Shivkumar</a></p>
 	</div>
 	<div id="link-box">
 		<p><a href="http://gsa.buffalo.edu">Graduate Student Association</a> | <a href="http://www.buffalo.edu">University at Buffalo</a> | <a href="http://gsa.buffalo.edu">Feedback</a></p>
