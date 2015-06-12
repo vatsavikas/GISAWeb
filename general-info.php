@@ -7,7 +7,6 @@
 
 <!-- Main page content follows the header -->
 <div id="page-content">
-<p>Welcome to the Prospective Students page. This page contains useful info for students planning to come to UB - University at Buffalo. Check out the links below.</p>
 <br />
 <ul>
 		<li><a href="#1">VISA procedures</a>

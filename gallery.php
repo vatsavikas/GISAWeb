@@ -21,12 +21,12 @@
 <div id="page-content" class="gallery">
 	<h3>Gallery Section:</h3>
 	<p>This part of the website houses some of our most memorable moments at UB.</p>
-	<p>If you have albumsets/pictures of events at UB which you think are worthy to be featured on this page, mail them to <a href="mailto:sbasavar@buffalo.edu">Sharath Babu</a>.
+	<p>If you have albumsets/pictures of events at UB which you think are worthy to be featured on this page, mail them to <a href="mailto:bhargavs@buffalo.edu">Bhargav Shivkumar</a>.
 		
 	<!-- Copy from here for creating a new album and change the "src" for the thumbs and main images -->
 	<hr />
 	<!-- Make sure to change the Album name below -->
-	<p><span style="font-weight: bold; font-size: 1.2em;">Rang De UB - Holi 2014</span> 	<br /><br />
+	<p><span style="font-weight: bold; font-size: 1.2em;">Rang De UB - Holi 2015</span> 	<br /><br />
 	
 	
 	<ul id="myGallery">

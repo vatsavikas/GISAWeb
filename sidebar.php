@@ -1,7 +1,9 @@
 <div id="sidebar">
 	<div id="updates-box">
 	<!--	<p><a href="travel-log.php">Travel Log</a> is now open for Fall 2013 students.</p>-->
-		<P>Temp Stay Confirmation will be provided from July 20th onwards</p>
+		<P>Temp Stay request form for Fall 2015 incoming students will be posted soon! </p>
+		<hr />
+		<P>Help your Juniors, be a host for Fall 2015. <a href="TempAccohosts.php">Click here to volunteer</a></p>
 		<hr />
 		<P>We are glad to help .Please Post your Queries on GISA <a href="http://www.facebook.com/home.php?sk=group_116428225037870" target="_blank"><span class="facebook"> Facebook</a></span>Page</p>
 		<hr />
