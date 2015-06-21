@@ -47,7 +47,21 @@
 	  })();
 
 	</script>
+	
+	<style>
+	
+	
+	
+	
 
+	ul ul { /* lists within lists... */
+		position: absolute; /* place them over the top of everything */
+		left: 0; /* align them to the left of the parent list item  - necessary for some older browsers */
+		top: 100%; /* align them to the bottom of the parent list item - again only necessary for older browsers */
+		display: none; /* hide 'em */
+	}
+	
+	</style>
 </head>
 
 <body>
@@ -86,9 +100,16 @@
 <li><a id="a_welcome" href="welcome.php">Welcome to UB</a></li>
 <li><a id="a_prospectivestudents" href="prospective-students.php">Prospective Students</a></li>
 				
-				<li><a id="a_travellog" href="travel-log.php">Travel Log</a></li>
-				
-				<li><a id="a_gallery" href="gallery.php">Gallery</a></li>
+				<li><a id="a_travellog" href="travel-log.php">Travel Log</a>
+
+					<ul>
+						<li><a id="a_property" href="ViewPropertyReview.php">Property Reviews</a></li>
+					</ul>
+
+</li>
+				<li><a id="a_forms" href="forms.php">Forms</a></li>
+				<li><a id="a_gallery" href="gallery.php">Gallery</a>
+				</li>
 				<li><a id="a_faq" href="faq.php">FAQ</a></li>
 				<li><a id="a_committee" href="committee.php">Committee 2015</a></li>
 			</ul>

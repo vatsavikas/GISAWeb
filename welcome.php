@@ -25,7 +25,7 @@
 
 	<p><a href="housing.php">Housing</a>: Info about housing at UB
 
-	<p><a href="http://www.student-affairs.buffalo.edu/career/index.php" target="_blank">UB Careers</a>: Info about on-campus jobs at UB
+	<p><a href="http://www.buffalo.edu/career/Students/Jobs/Campus_PT_Jobs.html" target="_blank">UB Careers</a>: Info about on-campus jobs at UB
 
 	<p><a href="campus-maps.php">Campus Maps</a>: Are you lost in the massiveness of UB ? Check out the Maps.
 </div>
