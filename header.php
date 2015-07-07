@@ -102,9 +102,9 @@
 				
 				<li><a id="a_travellog" href="travel-log.php">Travel Log</a>
 
-					<ul>
+<!--					<ul>
 						<li><a id="a_property" href="ViewPropertyReview.php">Property Reviews</a></li>
-					</ul>
+					</ul>  -->
 
 </li>
 				<li><a id="a_forms" href="forms.php">Forms</a></li>
