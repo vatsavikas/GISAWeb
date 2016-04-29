@@ -1,7 +1,8 @@
 <div id="sidebar">
 	<div id="updates-box">
-	<!--	<p><a href="travel-log.php">Travel Log</a> is now open for Fall 2013 students.</p>-->
-		<P>Temp Stay request form for Fall 2015 incoming students will be posted soon! </p>
+		<P><a href="img/Holi.jpg">HOLI HAI !! Buy Tickets for the HOLI event at SBI office soon!</a></p>
+		<hr />
+		<p><a href="gallery.php"> Check out previous HOLI photos </a></p>
 		<hr />
 		<P>Help your Juniors, be a host for Fall 2015. <a href="TempAccohosts.php">Click here to volunteer</a></p>
 		<hr />
